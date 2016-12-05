@@ -2,7 +2,7 @@
 
 > a node.js script for calculate minimum tiles in a perimeter
 
-use `tilebelt` and `turf` modules
+use [`tilebelt`](https://github.com/mapbox/tilebelt) and [`turf`](https://github.com/Turfjs/turf) modules
 
 ### Usage :
 
