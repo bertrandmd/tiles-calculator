@@ -13,6 +13,6 @@ use `tilebelt` and `turf` modules
 
 ### ToDo :
 
-- [] using parameters
-- [] use as executable
-- [] store tiles as list
+- [ ] using parameters
+- [ ] use as executable
+- [ ] store tiles as list
